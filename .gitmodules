@@ -1,0 +1,6 @@
+[submodule "kernel_compiler_patch"]
+	path = kernel_compiler_patch
+	url = https://github.com/graysky2/kernel_compiler_patch.git
+[submodule "kernel_compiler_patch_6.1.57_tmp"]
+	path = kernel_compiler_patch_6.1.57_tmp
+	url = https://github.com/Dread2/kernel_compiler_patch.git
